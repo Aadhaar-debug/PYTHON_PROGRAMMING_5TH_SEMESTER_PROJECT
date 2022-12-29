@@ -1,0 +1,113 @@
+Setting up a mario encironment 
+1. setup a mario environment
+2. process the game for app in AI
+3. train the model to play mario4. TEst the results
+
+start thr excution
+
+Gonna use the OPEN AI GYM - GYN super mario bros environment built on the nes emulator in the python library.
+by using the nes-py
+
+for nes-py we had to download the new version of the microsoft C++ build tools or v14++ of the build tools for the c++
+as it looks like th enes-py was made in the new libraries of the c++.
+
+we did so by heading to the website https://www.visualstudio.com/visual-cpp-build-tools.
+installing the windows visual studio build tools was also mentioned in the nes.py official documentation.
+
+
+
+
+
+
+
+
+the error we encountered while downloading ht enes.py without having the new version of the c++ library is as follws .
+  error: subprocess-exited-with-error
+
+  × python setup.py bdist_wheel did not run successfully.
+  │ exit code: 1
+  ╰─> [21 lines of output]
+      running bdist_wheel
+      running build
+      running build_py
+      creating build
+      creating build\lib.win-amd64-cpython-310
+      creating build\lib.win-amd64-cpython-310\nes_py
+      copying nes_py\nes_env.py -> build\lib.win-amd64-cpython-310\nes_py
+      copying nes_py\_image_viewer.py -> build\lib.win-amd64-cpython-310\nes_py
+      copying nes_py\_rom.py -> build\lib.win-amd64-cpython-310\nes_py
+      copying nes_py\__init__.py -> build\lib.win-amd64-cpython-310\nes_py
+      creating build\lib.win-amd64-cpython-310\nes_py\app
+      copying nes_py\app\cli.py -> build\lib.win-amd64-cpython-310\nes_py\app
+      copying nes_py\app\play_human.py -> build\lib.win-amd64-cpython-310\nes_py\app
+      copying nes_py\app\play_random.py -> build\lib.win-amd64-cpython-310\nes_py\app
+      copying nes_py\app\__init__.py -> build\lib.win-amd64-cpython-310\nes_py\app
+      creating build\lib.win-amd64-cpython-310\nes_py\wrappers
+      copying nes_py\wrappers\joypad_space.py -> build\lib.win-amd64-cpython-310\nes_py\wrappers
+      copying nes_py\wrappers\__init__.py -> build\lib.win-amd64-cpython-310\nes_py\wrappers
+      running build_ext
+      building 'nes_py.lib_nes_env' extension
+      error: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/   
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+  ERROR: Failed building wheel for nes-py
+  Running setup.py clean for nes-py
+Failed to build nes-py
+Installing collected packages: nes-py
+  Running setup.py install for nes-py ... error
+  error: subprocess-exited-with-error
+
+  × Running setup.py install for nes-py did not run successfully.
+  │ exit code: 1
+  ╰─> [23 lines of output]
+      running install
+      C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\lib\site-packages\setuptools\command\install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+        warnings.warn(
+      running build
+      running build_py
+      creating build
+      creating build\lib.win-amd64-cpython-310
+      creating build\lib.win-amd64-cpython-310\nes_py
+      copying nes_py\nes_env.py -> build\lib.win-amd64-cpython-310\nes_py
+      copying nes_py\_image_viewer.py -> build\lib.win-amd64-cpython-310\nes_py
+      copying nes_py\_rom.py -> build\lib.win-amd64-cpython-310\nes_py
+      copying nes_py\__init__.py -> build\lib.win-amd64-cpython-310\nes_py
+      creating build\lib.win-amd64-cpython-310\nes_py\app
+      copying nes_py\app\cli.py -> build\lib.win-amd64-cpython-310\nes_py\app
+      copying nes_py\app\play_human.py -> build\lib.win-amd64-cpython-310\nes_py\app
+      copying nes_py\app\play_random.py -> build\lib.win-amd64-cpython-310\nes_py\app
+      copying nes_py\app\__init__.py -> build\lib.win-amd64-cpython-310\nes_py\app
+      creating build\lib.win-amd64-cpython-310\nes_py\wrappers
+      copying nes_py\wrappers\joypad_space.py -> build\lib.win-amd64-cpython-310\nes_py\wrappers
+      copying nes_py\wrappers\__init__.py -> build\lib.win-amd64-cpython-310\nes_py\wrappers
+      running build_ext
+      building 'nes_py.lib_nes_env' extension
+      error: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/   
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem with pip.
+error: legacy-install-failure
+
+× Encountered error while trying to install package.
+╰─> nes-py
+
+note: This is an issue with the package mentioned above, not pip.
+hint: See above for output from the failure.
+
+
+
+
+
+
+
+
+
+while downloading the build tools for the nes.py we made sure that the following options were selected for the nes-py development .
+1.DEsktp development with C++
+2..NET desktop build tools
+3. UNiversal windows development build tools
+4. VIsual studio extension development
+
+
+AFter performing the above given steps you should be good to download the nes-py emulator for the mario game 
