@@ -200,11 +200,9 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 # SAMPLES / PICTURES 
 
-![FRAMEWORK]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/NETWORK%20FRAMEWORK.jpg))
-![PC CONFIGURATION]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/PC1%20CONFIGURATION%20FROM%20VLAN1.jpg))
-![PING CAPTURE]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/PING%201%20PDU%20CAPTURE%20RESULT%20(PART%205).jpg))
-![PING ENUMERATION]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/PING%201%20ROUTE%20NETWORK%20ENUMERATION%20(PART%205).jpg))
-![FINAL RESULT]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/Aadhaar-debug/COMPUTER_NETWORKS_5th_SEMESTER_PROJECT-/blob/main/NETWORKING%20PROJECT%20PICTURES/FINAL%20RESULT.jpg))
+![FRAMEWORK]([https://github.com/Aadhaar-debug/PYTHON_PROGRAMMING_5TH_SEMESTER_PROJECT/blob/main/Screenshots/Screenshot%20(316).png])
+![PC CONFIGURATION]([https://github.com/Aadhaar-debug/PYTHON_PROGRAMMING_5TH_SEMESTER_PROJECT/blob/main/Screenshots/Screenshot%20(316).png])
+![PING CAPTURE]([https://github.com/Aadhaar-debug/PYTHON_PROGRAMMING_5TH_SEMESTER_PROJECT/blob/main/Screenshots/Screenshot%20(316).png])
 
 ## License
 
