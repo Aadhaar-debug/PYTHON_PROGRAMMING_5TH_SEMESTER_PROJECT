@@ -104,6 +104,10 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 
 ## IMPLEMENTATION
 
+```
+git clone https://github.com/this-is-you/first-contributions.git
+```
+
 * DOWNLOAD THE CISCO PACKET TRACER  FROM THE NETCAD PORTAL
 * DOUBLE TAP THE  ( .PKT ) FILE AND IT'LL AUTOMATICALLY OPEN UP THE FILE IN THE CISCO PACKET TRACER.
 
