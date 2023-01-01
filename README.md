@@ -95,9 +95,9 @@ pip install matplotlib
 
 # SAMPLES / PICTURES 
 
-![FRAMEWORK]([https://github.com/Aadhaar-debug/PYTHON_PROGRAMMING_5TH_SEMESTER_PROJECT/blob/main/Screenshots/Screenshot%20(316).png])
-![PC CONFIGURATION]([https://github.com/Aadhaar-debug/PYTHON_PROGRAMMING_5TH_SEMESTER_PROJECT/blob/main/Screenshots/Screenshot%20(316).png])
-![PING CAPTURE]([https://github.com/Aadhaar-debug/PYTHON_PROGRAMMING_5TH_SEMESTER_PROJECT/blob/main/Screenshots/Screenshot%20(316).png])
+![Code Sample]([https://github.com/Aadhaar-debug/PYTHON_PROGRAMMING_5TH_SEMESTER_PROJECT/blob/main/Screenshots/Screenshot%20(316).png])
+![Initial Training]([https://github.com/Aadhaar-debug/PYTHON_PROGRAMMING_5TH_SEMESTER_PROJECT/blob/main/Screenshots/Screenshot%20(317).png])
+![Rewards and Punishments]([https://github.com/Aadhaar-debug/PYTHON_PROGRAMMING_5TH_SEMESTER_PROJECT/blob/main/Screenshots/Screenshot%20(318).png])
 
 
 
