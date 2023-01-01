@@ -61,6 +61,39 @@ of different learning rate (alpha) and discount factor (gamma)
 
 NOTE : To install some of the packages the internet connectivity might be a requirement.
 
+## IMPLEMENTATION
+# The below given implementation is done for the snake game , so use the given below instructions for your benifit.
+
+Open up the IDE command terminal . In our case we have used the VSCODE IDE and install the following packages:
+- pygame
+```
+pip install pygame
+```
+- numpy
+```
+pip install numpy
+```
+- torch
+```
+pip install torch
+```
+- matplotlib
+```
+pip install matplotlib
+```
+
+
+
+* After the above are executed head on to the agent.py file and run the python code. A pygame window should appear with the snake game on it 
+* let it run and generate some of the punishment and rewards for the until it maintains a Q- table .
+* At a certain point the snake should be able to get the rewards all the time with less errors
+* At this stage the snake Ai will be trained to play the all on its own.
+
+
+## DOCUMENT AND THE PPT FILE CAN BE FOUND IN THIS REPOSITORY ONLY JUST CHECK THE REPOSITORY CONTENTS ABOVE 
+
+
+
 # First Contributions
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
@@ -101,37 +134,6 @@ git clone https://github.com/this-is-you/first-contributions.git
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
 
-
-## IMPLEMENTATION
-# The below given implementation is done for the snake game , so use the given below instructions for your benifit.
-
-Open up the IDE command terminal . In our case we have used the VSCODE IDE and install the following packages:
-- pygame
-```
-pip install pygame
-```
-- numpy
-```
-pip install numpy
-```
-- torch
-```
-pip install torch
-```
-- matplotlib
-```
-pip install matplotlib
-```
-
-
-
-* After the above are executed head on to the agent.py file and run the python code. A pygame window should appear with the snake game on it 
-* let it run and generate some of the punishment and rewards for the until it maintains a Q- table .
-* At a certain point the snake should be able to get the rewards all the time with less errors
-* At this stage the snake Ai will be trained to play the all on its own.
-
-
-## DOCUMENT AND THE PPT FILE CAN BE FOUND IN THIS REPOSITORY ONLY JUST CHECK THE REPOSITORY CONTENTS ABOVE 
 
 
 ## Make necessary changes and commit those changes
