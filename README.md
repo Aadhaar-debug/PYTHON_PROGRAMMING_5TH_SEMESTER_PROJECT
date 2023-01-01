@@ -130,7 +130,6 @@ pip install matplotlib
 * At a certain point the snake should be able to get the rewards all the time with less errors
 * At this stage the snake Ai will be trained to play the all on its own.
 
-# END.
 
 ## DOCUMENT AND THE PPT FILE CAN BE FOUND IN THIS REPOSITORY ONLY JUST CHECK THE REPOSITORY CONTENTS ABOVE 
 
