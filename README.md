@@ -125,9 +125,12 @@ pip install matplotlib
 
 
 
-* DOWNLOAD THE CISCO PACKET TRACER  FROM THE NETCAD PORTAL
-* DOUBLE TAP THE  ( .PKT ) FILE AND IT'LL AUTOMATICALLY OPEN UP THE FILE IN THE CISCO PACKET TRACER.
+* After the above are executed head on to the agent.py file and run the python code. A pygame window should appear with the snake game on it 
+* let it run and generate some of the punishment and rewards for the until it maintains a Q- table .
+* At a certain point the snake should be able to get the rewards all the time with less errors
+* At this stage the snake Ai will be trained to play the all on its own.
 
+# END.
 
 ## DOCUMENT AND THE PPT FILE CAN BE FOUND IN THIS REPOSITORY ONLY JUST CHECK THE REPOSITORY CONTENTS ABOVE 
 
