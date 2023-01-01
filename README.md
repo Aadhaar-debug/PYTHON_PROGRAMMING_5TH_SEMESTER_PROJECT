@@ -1,5 +1,5 @@
 
-# ANALYZING THE NETWORK TRAFFIC FROM A LOCAL AREA NETWORK
+# AUTOMATING RETRO GAMES USING THE REINFROCEMENT LEARNING 
 ## TEAM NAME - TEAM Trex
 
 - TEAM LEADER - AADHAAR KOUL (5th semester cse dept)
@@ -8,11 +8,11 @@
 - TEAM MEMBER - SIDDHARTH BHAWANI (5th semester cse dept)
 - TEAM MEMBER - ANIL KUMAR (5th semester cse dept)
 
-CLASS COORDINATOR - VISHALIKA SHARMA
+CLASS COORDINATOR - ARJUN PURI
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-COMPLETE ANALYSIS OF THE MESSAGE PASSING METHODS IN THE CISCO PACKET TRACER SOFTWARE 
+Complete Automation of some of the most renouned game titles using the reinforcement learning.
 
 - EQUAL CONTRIBUTION
 - NO PLAGIARISM
@@ -21,12 +21,45 @@ COMPLETE ANALYSIS OF THE MESSAGE PASSING METHODS IN THE CISCO PACKET TRACER SOFT
 ## ABSTRACT
 
 
-[1][2]In our new era PCs become our part of life for every personal and professional requirement. Majority of organizations depend on the finest possible working of their systems for correspondences, organization, mechanization, online business solutions, and so on. LAN is the best fundamental and significant PC system claimed by discrete organizations and might be utilized for interconnection of wide region systems. A LAN provides effective cost sharing of fast processing information handling gear, for example, mass stockpiling media, centralized server PCs or tiny computers and various types of printers. Asset sharing is generally similar as significant where a Local Area Network (LAN) serves as the entrance path for an Internet. In view of this, framework supervisor’s requirement professional tools to help them with the motivation of improvement of QoS and maintenance of LANs. So in our project, a LAN system is structured utilizing Cisco Packet Tracer. This project explains just how the apparatus can be used to build up a reenactment model of the Local Area Network (LAN) for College of Engineering which contains a department like Bio Technology (BT), Civil, Mechanical, ECE and EEE or any. The examination gives a knowledge into different ideas such as IP address setup, topology plan and how to send data as packets in a solitary network and for the usage of Virtual Local Area Networks to isolate the heavy traffic produced by various systems. 
+General game testing relies on the use of
+human play testers, play test scripting, and prior knowledge
+of areas of interest to produce relevant test data. Using deep
+reinforcement learning (DRL), we introduce a self-learning
+mechanism to the game testing framework. With DRL, the
+framework is capable of exploring and/or exploiting the
+game mechanics based on a user-defined, reinforcing reward
+signal. As a result, test coverage is increased and unintended
+game play mechanics, exploits and bugs are discovered in
+a multitude of game types. In this paper, we show that
+DRL can be used to increase test coverage, find exploits,
+test map difficulty, and to detect common problems that
+arise in the testing of first-person shooter (FPS) games.In
+this paper, we study applying Reinforcement Learning to
+design a automatic agent to play the game Super Mario
+Bros. One of the challenge is how to handle the complex
+game environment. By abstracting the game environment
+into a state vector and using Q learning — an algorithm
+oblivious to transitional probabilities — we achieve tractable
+computation time and fast convergence. After training
+for 5000 iterations, our agent is able to win about 90
+percent of the time. We also compare and analyze the choice
+of different learning rate (alpha) and discount factor (gamma)
 
 
 ## Tech
 
-SOFTWARE - CISCO PACKET TRACER (VERSION 8.2.0)
+PYTHON - V3.10 , 3.8 AND 3.7
+PYTHON IDE
+
+## Specifications (Minimum requirement)
+
+RAM - 2GB
+PROCESSOR - CORE 2 DUO OR HIGHER FOR Q LEARNING TABLE PLOTTING
+WINDOWS VERSION - 10 OR HIGHER
+PYTHON INTERPRETER VERSION - PYTHON 3.7 AND PYTHON 10.0
+INTERNET CONNECTIVITY - NOT REQUIRED 
+
+NOTE : To install some of the packages the internet connectivity might be a requirement.
 
 ## IMPLEMENTATION
 
