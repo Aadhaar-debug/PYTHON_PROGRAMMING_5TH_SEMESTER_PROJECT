@@ -103,10 +103,27 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 
 
 ## IMPLEMENTATION
+# The below given implementation is done for the snake game , so use the given below instructions for your benifit.
 
+Open up the IDE command terminal . In our case we have used the VSCODE IDE and install the following packages:
+- pygame
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+pip install pygame
 ```
+- numpy
+```
+pip install numpy
+```
+- torch
+```
+pip install torch
+```
+- matplotlib
+```
+pip install matplotlib
+```
+
+
 
 * DOWNLOAD THE CISCO PACKET TRACER  FROM THE NETCAD PORTAL
 * DOUBLE TAP THE  ( .PKT ) FILE AND IT'LL AUTOMATICALLY OPEN UP THE FILE IN THE CISCO PACKET TRACER.
