@@ -93,6 +93,13 @@ pip install matplotlib
 ## DOCUMENT AND THE PPT FILE CAN BE FOUND IN THIS REPOSITORY ONLY JUST CHECK THE REPOSITORY CONTENTS ABOVE 
 
 
+# SAMPLES / PICTURES 
+
+![FRAMEWORK]([https://github.com/Aadhaar-debug/PYTHON_PROGRAMMING_5TH_SEMESTER_PROJECT/blob/main/Screenshots/Screenshot%20(316).png])
+![PC CONFIGURATION]([https://github.com/Aadhaar-debug/PYTHON_PROGRAMMING_5TH_SEMESTER_PROJECT/blob/main/Screenshots/Screenshot%20(316).png])
+![PING CAPTURE]([https://github.com/Aadhaar-debug/PYTHON_PROGRAMMING_5TH_SEMESTER_PROJECT/blob/main/Screenshots/Screenshot%20(316).png])
+
+
 
 # First Contributions
 
@@ -199,12 +206,6 @@ Now let's get you started with contributing to other projects. We've compiled a 
 | [GitHub Desktop](gui-tool-tutorials/github-desktop-tutorial.md)                                                                                             | [Visual Studio 2017](gui-tool-tutorials/github-windows-vs2017-tutorial.md)                                                                                                                          | [GitKraken](gui-tool-tutorials/gitkraken-tutorial.md)                                                               | [Visual Studio Code](gui-tool-tutorials/github-windows-vs-code-tutorial.md)                                                                                                                  | [Atlassian Sourcetree](gui-tool-tutorials/sourcetree-macos-tutorial.md)                                                                                                                                      | [IntelliJ IDEA](gui-tool-tutorials/github-windows-intellij-tutorial.md)                                                                                                                   |
 添加内容
 
-
-# SAMPLES / PICTURES 
-
-![FRAMEWORK]([https://github.com/Aadhaar-debug/PYTHON_PROGRAMMING_5TH_SEMESTER_PROJECT/blob/main/Screenshots/Screenshot%20(316).png])
-![PC CONFIGURATION]([https://github.com/Aadhaar-debug/PYTHON_PROGRAMMING_5TH_SEMESTER_PROJECT/blob/main/Screenshots/Screenshot%20(316).png])
-![PING CAPTURE]([https://github.com/Aadhaar-debug/PYTHON_PROGRAMMING_5TH_SEMESTER_PROJECT/blob/main/Screenshots/Screenshot%20(316).png])
 
 ## License
 
