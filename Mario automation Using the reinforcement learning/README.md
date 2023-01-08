@@ -209,16 +209,3 @@ keys:
 | `x_pos`    | `int`  | Mario's _x_ position in the stage (from the left)
 | `y_pos`    | `int`  | Mario's _y_ position in the stage (from the bottom)
 
-## Citation
-
-Please cite `gym-super-mario-bros` if you use it in your research.
-
-```tex
-@misc{gym-super-mario-bros,
-  author = {Christian Kauten},
-  howpublished = {GitHub},
-  title = {{S}uper {M}ario {B}ros for {O}pen{AI} {G}ym},
-  URL = {https://github.com/Kautenja/gym-super-mario-bros},
-  year = {2018},
-}
-```
